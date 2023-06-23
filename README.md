@@ -11,4 +11,4 @@
 > Easy RIGHT? 👀 Click the link and play!
 
 ### Here's the link:
-https://arjuyyy.github.io/Drum-Kit/
+https://arjuyyy.github.io/Simon-Game/
